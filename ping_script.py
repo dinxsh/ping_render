@@ -5,7 +5,7 @@ import logging
 
 def ping_endpoints():
     endpoints = [ 
-"https://zero-thought-node.onrender.com/"
+"https://zero-thought-node-1.onrender.com/"
     ]
     
     for url in endpoints:
